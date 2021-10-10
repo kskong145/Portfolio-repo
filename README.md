@@ -1,3 +1,3 @@
 # Demo
 
-Hi, I am Samuel! Welcome to my Portfolio
+Hi, I am Samuel! Welcome to my Portfolio!
